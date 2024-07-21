@@ -117,7 +117,7 @@ The following sections provide instructions on how to use the Basic Task Tracker
 ## Task Management
 <strong>View Tasks:</strong> The main page displays a list of tasks.
 <br/>
-<strong>Create Task:</strong> Click the "Add Task" button, fill in the task details, and save.
+<strong>Create Task:</strong> Click the "Create Task" button, fill in the task details, and save.
 <br/>
 <strong>Update Task:</strong> Click the edit icon next to a task, modify the details, and save.
 <br/>
