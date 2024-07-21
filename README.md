@@ -47,7 +47,7 @@ Follow these steps to set up the Basic Task Tracker Application:
 
     ```
     
-    git clone https://github.com/your-repo/task-tracker.git
+    git clone https://github.com/zamanali423/Task-Tracker-Application
     cd task-tracker/backend
 
     ```
